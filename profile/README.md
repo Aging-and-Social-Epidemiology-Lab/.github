@@ -8,7 +8,7 @@ Welcome to the GitHub organization for the Aging and Social Epidemiology Lab at 
 - Healthy Aging
 - Alzheimer's Disease and Related Dementias
 - Causal Inference
-- Health Policy Evaluation
+- Social Policy Evaluation
 - Quantitative Methods
 
 ## Principal Investigator
