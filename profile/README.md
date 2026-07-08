@@ -1,4 +1,4 @@
-# Aging and Social Epidemiology Lab
+# Social Epidemiology and Aging Lab
 
 Welcome to the GitHub organization for the Aging and Social Epidemiology Lab at the UCLA Fielding School of Public Health.
 
