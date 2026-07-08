@@ -2,6 +2,9 @@
 
 Welcome to the GitHub organization for the Aging and Social Epidemiology Lab at the UCLA Fielding School of Public Health.
 
+The Aging and Social Epidemiology Lab investigates how social and structural determinants shape healthy aging and health disparities across the life course. We integrate social epidemiology, causal inference, and advanced quantitative methods to generate rigorous evidence that informs policy and community-based interventions. 
+
+
 ## Research Areas
 
 - Social Epidemiology
