@@ -1,8 +1,8 @@
-# Social Epidemiology and Aging Lab
+# The SAGE (Social Epidemiology and Aging) Lab
 
-Welcome to the GitHub organization for the Aging and Social Epidemiology Lab at the UCLA Fielding School of Public Health.
+Welcome to the GitHub organization for the SAGE (Social Epidemiology and Aging) Lab at the UCLA Fielding School of Public Health.
 
-The Aging and Social Epidemiology Lab investigates how social and structural determinants shape healthy aging and health disparities across the life course. We integrate social epidemiology, causal inference, and advanced quantitative methods to generate rigorous evidence that informs policy and community-based interventions. 
+The SAGE (Social Epidemiology and Aging) Lab investigates how social and structural determinants shape healthy aging and health disparities across the life course. We integrate social epidemiology, causal inference, and advanced quantitative methods to generate rigorous evidence that informs policy and community-based interventions. 
 
 
 ## Research Areas
@@ -10,6 +10,7 @@ The Aging and Social Epidemiology Lab investigates how social and structural det
 - Social Epidemiology
 - Healthy Aging
 - Alzheimer's Disease and Related Dementias
+- Quantitative Methods
 - Causal Inference
 - Social Policy Evaluation
 - Quantitative Methods
