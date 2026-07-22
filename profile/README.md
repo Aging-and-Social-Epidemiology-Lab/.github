@@ -1,4 +1,4 @@
-# The SAGE (Social Epidemiology and Aging) Lab
+# The SAGE Lab (Social Epidemiology and Aging)
 
 Welcome to the GitHub organization for the SAGE (Social Epidemiology and Aging) Lab at the UCLA Fielding School of Public Health.
 
